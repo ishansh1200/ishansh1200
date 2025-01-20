@@ -1,5 +1,20 @@
 # 💫 About Me:
-I am  currently working on learning NextJs and Redux <br>I have worked with typescript and JavaScript <br>I will be learning backend development soon as well
+
+👋 Hi there! I'm a passionate front-end developer in the making, aspiring to grow into a full-stack developer. 🚀
+
+🌟 Technologies I've Learned:
+
+Frontend: HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS
+TypeScript: Bringing type safety and scalability to my projects
+💻 What I’m Working On:
+
+Building engaging, user-friendly web interfaces
+Enhancing my skills in modern web development frameworks
+Exploring back-end development to become a full-stack expert
+🎯 Goals:
+
+Contribute to meaningful projects that make a difference
+Continuously learn and evolve with the tech industry
 
 
 ## 🌐 Socials:
